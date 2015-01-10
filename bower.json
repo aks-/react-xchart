@@ -8,7 +8,7 @@
     "**/.*",
     "node_modules",
     "components",
-    "bower_components",
+    "bower_components"
   ],
   "keywords": [
     "react",
