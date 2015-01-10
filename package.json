@@ -1,11 +1,11 @@
 {
   "name": "react-xchart",
-  "verson": "0.3.0",
+  "version": "0.3.0",
   "author": "Ashok <coderatlabs@gmail.com",
   "description": "React wrapper for xChart library.",
   "main": "react-xchart.js",
   "ignore": [
-    "bower_components",
+    "bower_components"
   ],
   "repository": {
     "type": "git",
