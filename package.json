@@ -1,0 +1,32 @@
+{
+  "name": "react-xchart",
+  "verson": "0.3.0",
+  "author": "Ashok <coderatlabs@gmail.com",
+  "description": "React wrapper for xChart library.",
+  "main": "react-xchart.js",
+  "ignore": [
+    "bower_components",
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aks-/react-xchart.git"
+  },
+  "keywords": [
+    "react",
+    "xchart",
+    "tenxer",
+    "chart",
+    "d3",
+    "wrapper"
+  ],
+  "dependencies": {
+    "xchart": "~0.3.0",
+    "jquery": "~2.1.0",
+    "react": "~0.12.2"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aks-/react-xchart/issues"
+  },
+  "homepage": "https://github.com/aks-/react-xchart"
+}
